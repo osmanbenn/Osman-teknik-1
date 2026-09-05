@@ -1,0 +1,6 @@
+{
+  "name": "OSMANTEKNİK PRO",
+  "description": "Cep telefonu tamir ve teknik servis yönetim sistemi (ERP)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
